@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>A Gassers at the 2010 March Meet</title>
+   	<link>.</link>
+        <generator>Jalbum 8.7</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="beanes/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="castelli/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="chaffee/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="data/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="ferrin/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="ford/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="godec/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="helms/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="hiemstra/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="matson/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="moore/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="newton/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="overholser/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="patten/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="pichler/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="ratzloff/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="sanders/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="scott/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="torgrimson/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="unknown57agas/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="unknowncamaro/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="warren/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="white/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="williams/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>B Gassers at the 2010 March Meet</title>
+   	<link>.</link>
+        <generator>Jalbum 8.7</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="armstrong/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="bush/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="curley/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="denny/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="franks/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="mcdermott/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="mossi/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="perry/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="phillips/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="pullin/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="quiroga/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="ray/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="saliani/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="schauer/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="scott/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="stalnaker/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="sterett/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="truer/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="tyree/album.rss" />   	
+    	
+        
+        <item>
+            <title>CliffBoyles-snyder</title>
+            <link>slides/CliffBoyles-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 10:36:52 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CliffBoyles-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/CliffBoyles-snyder.jpg" width="1024" height="682"/>
+            
+            
+            <guid isPermaLink="false">slides/CliffBoyles-snyder.jpg</guid>
+        </item>
+        
+        <item>
+            <title>SteveFlatTopFaller1-court</title>
+            <link>slides/SteveFlatTopFaller1-court.JPG#</link>
+            <pubDate>Thu, 06 May 2010 10:36:52 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SteveFlatTopFaller1-court.JPG" width="160" height="160"/>
+            <media:content url="slides/SteveFlatTopFaller1-court.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/SteveFlatTopFaller1-court.JPG</guid>
+        </item>
+        
+        <item>
+            <title>JeffHandley-court</title>
+            <link>slides/JeffHandley-court.JPG#</link>
+            <pubDate>Thu, 06 May 2010 10:36:52 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/JeffHandley-court.JPG" width="160" height="160"/>
+            <media:content url="slides/JeffHandley-court.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/JeffHandley-court.JPG</guid>
+        </item>
+        
+        <item>
+            <title>JerryJahnsen-BoydSchauer-merriman</title>
+            <link>slides/JerryJahnsen-BoydSchauer-merriman.JPG#</link>
+            <pubDate>Thu, 06 May 2010 10:36:52 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/JerryJahnsen-BoydSchauer-merriman.JPG" width="160" height="160"/>
+            <media:content url="slides/JerryJahnsen-BoydSchauer-merriman.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/JerryJahnsen-BoydSchauer-merriman.JPG</guid>
+        </item>
+        
+        <item>
+            <title>KMorovich1-court</title>
+            <link>slides/KMorovich1-court.JPG#</link>
+            <pubDate>Thu, 06 May 2010 10:36:52 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/KMorovich1-court.JPG" width="160" height="160"/>
+            <media:content url="slides/KMorovich1-court.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/KMorovich1-court.JPG</guid>
+        </item>
+        
+        <item>
+            <title>RandyPadgett-snyder</title>
+            <link>slides/RandyPadgett-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 10:36:52 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/RandyPadgett-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/RandyPadgett-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/RandyPadgett-snyder.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

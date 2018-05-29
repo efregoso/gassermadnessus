@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>C Gassers at the 2010 March Meet</title>
+   	<link>.</link>
+        <generator>Jalbum 8.7</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="bernien/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="berry/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="brodovsky/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="brown/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="capps/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="fowler/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="goad/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="herrera/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="hudson/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="kaufman/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="lachien/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="matteson/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="mcleod/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="morgan/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="to'neal/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="perri/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="petrosky/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="pires/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="shears/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="thompson/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="williams/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="wold/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="unknowncamaro/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="unknownvette/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="unknownnova/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="heinrich/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="peres/album.rss" />   	
+    	
+        
+        <item>
+            <title>NickHendrick1-snyder</title>
+            <link>slides/NickHendrick1-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 10:56:34 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NickHendrick1-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/NickHendrick1-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/NickHendrick1-snyder.jpg</guid>
+        </item>
+        
+        <item>
+            <title>JeffKleeman01-court</title>
+            <link>slides/JeffKleeman01-court.JPG#</link>
+            <pubDate>Thu, 06 May 2010 10:56:34 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/JeffKleeman01-court.JPG" width="160" height="160"/>
+            <media:content url="slides/JeffKleeman01-court.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/JeffKleeman01-court.JPG</guid>
+        </item>
+        
+        <item>
+            <title>LynsiMartinez1-snyder</title>
+            <link>slides/LynsiMartinez1-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 10:56:34 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LynsiMartinez1-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/LynsiMartinez1-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/LynsiMartinez1-snyder.jpg</guid>
+        </item>
+        
+        <item>
+            <title>PatrickNeven1-snyder</title>
+            <link>slides/PatrickNeven1-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 10:56:34 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PatrickNeven1-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/PatrickNeven1-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/PatrickNeven1-snyder.jpg</guid>
+        </item>
+        
+        <item>
+            <title>MikeONeal-merriman</title>
+            <link>slides/MikeONeal-merriman.JPG#</link>
+            <pubDate>Thu, 06 May 2010 10:56:34 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MikeONeal-merriman.JPG" width="160" height="160"/>
+            <media:content url="slides/MikeONeal-merriman.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/MikeONeal-merriman.JPG</guid>
+        </item>
+        
+        <item>
+            <title>TomRay-snyder</title>
+            <link>slides/TomRay-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 10:56:34 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/TomRay-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/TomRay-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/TomRay-snyder.jpg</guid>
+        </item>
+        
+        <item>
+            <title>TomScebarras01-court</title>
+            <link>slides/TomScebarras01-court.JPG#</link>
+            <pubDate>Thu, 06 May 2010 10:56:34 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/TomScebarras01-court.JPG" width="160" height="160"/>
+            <media:content url="slides/TomScebarras01-court.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/TomScebarras01-court.JPG</guid>
+        </item>
+        
+        <item>
+            <title>MikeWortman01-court</title>
+            <link>slides/MikeWortman01-court.JPG#</link>
+            <pubDate>Thu, 06 May 2010 10:56:34 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MikeWortman01-court.JPG" width="160" height="160"/>
+            <media:content url="slides/MikeWortman01-court.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/MikeWortman01-court.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

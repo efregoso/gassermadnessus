@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>D Gassers at the 2010 March Meet</title>
+   	<link>.</link>
+        <generator>Jalbum 8.7</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="carey/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="danley/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="diedrich/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="fournier/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="george/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="kohlmann/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="unknownblacknova/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="unknownwhitenova/album.rss" />   	
+    	
+        
+        <item>
+            <title>BrianClark1-snyder</title>
+            <link>slides/BrianClark1-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BrianClark1-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/BrianClark1-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/BrianClark1-snyder.jpg</guid>
+        </item>
+        
+        <item>
+            <title>TomEllis-merriman</title>
+            <link>slides/TomEllis-merriman.JPG#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/TomEllis-merriman.JPG" width="160" height="160"/>
+            <media:content url="slides/TomEllis-merriman.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/TomEllis-merriman.JPG</guid>
+        </item>
+        
+        <item>
+            <title>DanFicher-snyder</title>
+            <link>slides/DanFicher-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DanFicher-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/DanFicher-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/DanFicher-snyder.jpg</guid>
+        </item>
+        
+        <item>
+            <title>BrianForture1-merriman</title>
+            <link>slides/BrianForture1-merriman.JPG#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BrianForture1-merriman.JPG" width="160" height="160"/>
+            <media:content url="slides/BrianForture1-merriman.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/BrianForture1-merriman.JPG</guid>
+        </item>
+        
+        <item>
+            <title>RickFalk01-court</title>
+            <link>slides/RickFalk01-court.JPG#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/RickFalk01-court.JPG" width="160" height="160"/>
+            <media:content url="slides/RickFalk01-court.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/RickFalk01-court.JPG</guid>
+        </item>
+        
+        <item>
+            <title>JayFrye-snyder</title>
+            <link>slides/JayFrye-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/JayFrye-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/JayFrye-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/JayFrye-snyder.jpg</guid>
+        </item>
+        
+        <item>
+            <title>GregHolman01-court</title>
+            <link>slides/GregHolman01-court.JPG#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/GregHolman01-court.JPG" width="160" height="160"/>
+            <media:content url="slides/GregHolman01-court.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/GregHolman01-court.JPG</guid>
+        </item>
+        
+        <item>
+            <title>CharlieJorgensen-snyder</title>
+            <link>slides/CharlieJorgensen-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CharlieJorgensen-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/CharlieJorgensen-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/CharlieJorgensen-snyder.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ChrisKurtis-snyder</title>
+            <link>slides/ChrisKurtis-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ChrisKurtis-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/ChrisKurtis-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/ChrisKurtis-snyder.jpg</guid>
+        </item>
+        
+        <item>
+            <title>DavidMallory-merriman</title>
+            <link>slides/DavidMallory-merriman.JPG#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DavidMallory-merriman.JPG" width="160" height="160"/>
+            <media:content url="slides/DavidMallory-merriman.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/DavidMallory-merriman.JPG</guid>
+        </item>
+        
+        <item>
+            <title>KevinPope01-court</title>
+            <link>slides/KevinPope01-court.JPG#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/KevinPope01-court.JPG" width="160" height="160"/>
+            <media:content url="slides/KevinPope01-court.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/KevinPope01-court.JPG</guid>
+        </item>
+        
+        <item>
+            <title>RoySommers01-court</title>
+            <link>slides/RoySommers01-court.JPG#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/RoySommers01-court.JPG" width="160" height="160"/>
+            <media:content url="slides/RoySommers01-court.JPG" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/RoySommers01-court.JPG</guid>
+        </item>
+        
+        <item>
+            <title>Unknown2-snyder</title>
+            <link>slides/Unknown2-snyder.jpg#</link>
+            <pubDate>Thu, 06 May 2010 11:04:26 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Unknown2-snyder.jpg" width="160" height="160"/>
+            <media:content url="slides/Unknown2-snyder.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Unknown2-snyder.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

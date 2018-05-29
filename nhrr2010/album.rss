@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>2010 National Hot Rod Reunion</title>
+   	<link>.</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="Geezer Gassers/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Nostalgia Gas/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="HotRod/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Modified/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Super Stock/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Top Stock/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Hemi Shootout/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="TF,FC,FA/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Altereds &amp; Dragsters/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Show &amp; Shine/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Display/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Cacklefest/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Friday Night/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Miscellaneous/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="People/album.rss" />   	
+    	
+        
+        <item>
+            <title>Friday, 805 am, at the NHRR, and here they come</title>
+            <link>slides/Friday, 805 am, at the NHRR, and here they come.JPG#</link>
+            <pubDate>Tue, 22 Jun 2010 20:47:37 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Friday, 805 am, at the NHRR, and here they come.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Friday, 805 am, at the NHRR, and here they come.JPG" width="1024" height="963"/>
+            
+            
+            <guid isPermaLink="false">slides/Friday, 805 am, at the NHRR, and here they come.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

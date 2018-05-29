@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>AA Gassers at the 2010 March Meet</title>
+   	<link>.</link>
+        <generator>Jalbum 8.7</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="anderson/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="cmoore/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="krupa/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="matthews/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="reinero/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="rmoore/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="roberts/album.rss" />   	
+    	
+        
+    </channel>
+</rss>
