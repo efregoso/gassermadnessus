@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>People</title>
+   	<link>..</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>DSCF1967</title>
+            <link>slides/DSCF1967.html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:23 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF1967.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF1967.JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/DSCF1967.JPG</guid>
+        </item>
+        
+        <item>
+            <title>Bob Wenzelburger</title>
+            <link>slides/Bob Wenzelburger.html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:23 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bob Wenzelburger.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/Bob Wenzelburger.JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/Bob Wenzelburger.JPG</guid>
+        </item>
+        
+        <item>
+            <title>DSCF2229(1)</title>
+            <link>slides/DSCF2229(1).html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:23 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF2229(1).JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF2229(1).JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/DSCF2229(1).JPG</guid>
+        </item>
+        
+        <item>
+            <title>DSCF2149</title>
+            <link>slides/DSCF2149.html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:23 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF2149.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF2149.JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/DSCF2149.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

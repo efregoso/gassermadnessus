@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>2010 Blue Suede Cruise - Bill Kloss Photos</title>
+   	<link>.</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="Geezer Gassers/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Nostalgia Gas/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="B Gas/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="HotRod/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Nostalgia Pro Stock/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Nostalgia Super Stock/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Comp/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Nitro/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Show/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="People/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Other/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

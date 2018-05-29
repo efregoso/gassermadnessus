@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Show</title>
+   	<link>..</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>DSCF1961</title>
+            <link>slides/DSCF1961.html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:16 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF1961.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF1961.JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/DSCF1961.JPG</guid>
+        </item>
+        
+        <item>
+            <title>DSCF1962</title>
+            <link>slides/DSCF1962.html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:16 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF1962.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF1962.JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/DSCF1962.JPG</guid>
+        </item>
+        
+        <item>
+            <title>DSCF1963</title>
+            <link>slides/DSCF1963.html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:16 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF1963.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF1963.JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/DSCF1963.JPG</guid>
+        </item>
+        
+        <item>
+            <title>DSCF2172</title>
+            <link>slides/DSCF2172.html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:16 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF2172.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF2172.JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/DSCF2172.JPG</guid>
+        </item>
+        
+        <item>
+            <title>DSCF2173</title>
+            <link>slides/DSCF2173.html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:16 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF2173.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF2173.JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/DSCF2173.JPG</guid>
+        </item>
+        
+        <item>
+            <title>DSCF2002(1)</title>
+            <link>slides/DSCF2002(1).html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:16 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF2002(1).JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF2002(1).JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/DSCF2002(1).JPG</guid>
+        </item>
+        
+        <item>
+            <title>DSCF2021(1)</title>
+            <link>slides/DSCF2021(1).html#</link>
+            <pubDate>Fri, 24 Sep 2010 09:25:16 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF2021(1).JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF2021(1).JPG" width="800" height="600"/>
+            
+            
+            <guid isPermaLink="false">slides/DSCF2021(1).JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

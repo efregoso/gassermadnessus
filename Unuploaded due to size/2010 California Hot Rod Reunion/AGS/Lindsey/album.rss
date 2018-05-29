@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Ferrin</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>OCT_1375</title>
+            <link>slides/OCT_1375.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:53 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OCT_1375.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/OCT_1375.jpg" width="1024" height="683"/>
+            
+            
+            <guid isPermaLink="false">slides/OCT_1375.jpg</guid>
+        </item>
+        
+        <item>
+            <title>OCT_9483</title>
+            <link>slides/OCT_9483.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:53 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OCT_9483.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/OCT_9483.jpg" width="1024" height="683"/>
+            
+            
+            <guid isPermaLink="false">slides/OCT_9483.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 1061</title>
+            <link>slides/Hot Rod Reunion 1061.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:53 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 1061.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 1061.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 1061.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 1062</title>
+            <link>slides/Hot Rod Reunion 1062.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:53 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 1062.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 1062.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 1062.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

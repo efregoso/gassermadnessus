@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Krupa</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>CH2_0140</title>
+            <link>slides/CH2_0140.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:49 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CH2_0140.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/CH2_0140.jpg" width="1024" height="683"/>
+            
+            
+            <guid isPermaLink="false">slides/CH2_0140.jpg</guid>
+        </item>
+        
+        <item>
+            <title>OCT_0263</title>
+            <link>slides/OCT_0263.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:49 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OCT_0263.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/OCT_0263.jpg" width="1024" height="683"/>
+            
+            
+            <guid isPermaLink="false">slides/OCT_0263.jpg</guid>
+        </item>
+        
+        <item>
+            <title>OCT_0268</title>
+            <link>slides/OCT_0268.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:49 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OCT_0268.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/OCT_0268.jpg" width="1024" height="683"/>
+            
+            
+            <guid isPermaLink="false">slides/OCT_0268.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 734</title>
+            <link>slides/Hot Rod Reunion 734.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:49 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 734.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 734.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 734.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 735</title>
+            <link>slides/Hot Rod Reunion 735.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:49 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 735.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 735.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 735.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 736</title>
+            <link>slides/Hot Rod Reunion 736.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:49 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 736.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 736.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 736.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

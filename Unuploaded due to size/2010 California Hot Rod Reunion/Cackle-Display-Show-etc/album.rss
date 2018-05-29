@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Cackle-Display-Show-etc</title>
+   	<link>..</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="Cacklefest/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="SelfStartCackle/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Practice Starts and a squirt or 2/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Sweet Willys/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="55s/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Customs/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="and a Whole Lot More/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

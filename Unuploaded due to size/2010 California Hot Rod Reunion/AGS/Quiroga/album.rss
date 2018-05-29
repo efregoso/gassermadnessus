@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>UnknownCamaro2</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>Hot Rod Reunion 023</title>
+            <link>slides/Hot Rod Reunion 023.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 023.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 023.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 023.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 460</title>
+            <link>slides/Hot Rod Reunion 460.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 460.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 460.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 460.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 462</title>
+            <link>slides/Hot Rod Reunion 462.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 462.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 462.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 462.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 463</title>
+            <link>slides/Hot Rod Reunion 463.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 463.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 463.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 463.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 464</title>
+            <link>slides/Hot Rod Reunion 464.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 464.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 464.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 464.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 461</title>
+            <link>slides/Hot Rod Reunion 461.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:22:00 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 461.jpg" width="120" height="94"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 461.jpg" width="869" height="684"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 461.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

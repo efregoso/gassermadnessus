@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>AAGS</title>
+   	<link>..</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="Matthews/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Leonard/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="White/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Woods-Moore/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Chamberlin/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Mallicoat-Boomgarden/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Roberts/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Moore/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Abbey/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Harris/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Krupa/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Loomis/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Reinero/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Willis and Jensen/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Unknown-33WillysPickup/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Moore</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>CH2_0371</title>
+            <link>slides/CH2_0371.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:48 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CH2_0371.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/CH2_0371.jpg" width="1024" height="685"/>
+            
+            
+            <guid isPermaLink="false">slides/CH2_0371.jpg</guid>
+        </item>
+        
+        <item>
+            <title>OCT_1000</title>
+            <link>slides/OCT_1000.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:48 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OCT_1000.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/OCT_1000.jpg" width="1024" height="683"/>
+            
+            
+            <guid isPermaLink="false">slides/OCT_1000.jpg</guid>
+        </item>
+        
+        <item>
+            <title>OCT_1840</title>
+            <link>slides/OCT_1840.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:48 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OCT_1840.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/OCT_1840.jpg" width="1024" height="683"/>
+            
+            
+            <guid isPermaLink="false">slides/OCT_1840.jpg</guid>
+        </item>
+        
+        <item>
+            <title>OCT_1843</title>
+            <link>slides/OCT_1843.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:48 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OCT_1843.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/OCT_1843.jpg" width="1024" height="683"/>
+            
+            
+            <guid isPermaLink="false">slides/OCT_1843.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 771</title>
+            <link>slides/Hot Rod Reunion 771.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:48 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 771.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 771.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 771.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 772</title>
+            <link>slides/Hot Rod Reunion 772.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:48 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 772.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 772.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 772.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 1173</title>
+            <link>slides/Hot Rod Reunion 1173.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:48 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 1173.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 1173.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 1173.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 1216</title>
+            <link>slides/Hot Rod Reunion 1216.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:48 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 1216.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 1216.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 1216.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

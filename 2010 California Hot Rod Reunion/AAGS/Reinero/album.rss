@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Reinero</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>OCT_0248</title>
+            <link>slides/OCT_0248.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OCT_0248.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/OCT_0248.jpg" width="1024" height="683"/>
+            
+            
+            <guid isPermaLink="false">slides/OCT_0248.jpg</guid>
+        </item>
+        
+        <item>
+            <title>OCT_0256</title>
+            <link>slides/OCT_0256.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OCT_0256.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/OCT_0256.jpg" width="1024" height="683"/>
+            
+            
+            <guid isPermaLink="false">slides/OCT_0256.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 336</title>
+            <link>slides/Hot Rod Reunion 336.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 336.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 336.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 336.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 737</title>
+            <link>slides/Hot Rod Reunion 737.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 737.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 737.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 737.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 738</title>
+            <link>slides/Hot Rod Reunion 738.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 738.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 738.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 738.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 740</title>
+            <link>slides/Hot Rod Reunion 740.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 740.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 740.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 740.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 741</title>
+            <link>slides/Hot Rod Reunion 741.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 741.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 741.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 741.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 742</title>
+            <link>slides/Hot Rod Reunion 742.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 742.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 742.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 742.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hot Rod Reunion 744</title>
+            <link>slides/Hot Rod Reunion 744.html#</link>
+            <pubDate>Sun, 24 Oct 2010 17:21:50 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hot Rod Reunion 744.jpg" width="120" height="79"/>
+            <media:content type="image/jpeg" url="slides/Hot Rod Reunion 744.jpg" width="1024" height="680"/>
+            
+            
+            <guid isPermaLink="false">slides/Hot Rod Reunion 744.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>
